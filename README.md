@@ -2,8 +2,6 @@
 
 **Effortlessly reclaim your disk space with PC Junk Remover.**
 
-**More free Windows utilities:** [Telegram — @windows_free_software](https://t.me/windows_free_software)
-
 PC Junk Remover is a powerful yet lightweight utility designed to streamline your Windows experience by eliminating unnecessary files. This free Windows cleanup tool tackles system junk, including temporary files and browser caches, ensuring your PC runs smoothly and efficiently.
 
 ![PC Junk Remover](assets/screenshot.png)
@@ -47,9 +45,6 @@ Windows 10 (64-bit) and Windows 11 (64-bit). No .NET framework install required.
 
 ## Fair use / responsibility
 While PC Junk Remover is designed to safely remove system junk, users should exercise caution when cleaning files. Ensure important documents and data are backed up, as deletion is irreversible. This utility is not intended for use in scenarios where file recovery is critical.
-
-## More free Windows software
-**More free Windows utilities:** [Telegram — @windows_free_software](https://t.me/windows_free_software)
 
 ## License
 MIT — free for personal and commercial use.
